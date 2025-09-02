@@ -1,10 +1,10 @@
 # Stock Portfolio Optimization
 
-###(Jupyter Notebook)[https://github.com/medhanshsankaran/Stock-Portfolio-Optimization/blob/main/VolatileCode.ipynb]
+### (Jupyter Notebook)[https://github.com/medhanshsankaran/Stock-Portfolio-Optimization/blob/main/VolatileCode.ipynb]
 
-###(Presentation)[https://github.com/medhanshsankaran/Stock-Portfolio-Optimization/blob/main/Portfolio_Optimization_Powerpoint.pptx]
+### (Presentation)[https://github.com/medhanshsankaran/Stock-Portfolio-Optimization/blob/main/Portfolio_Optimization_Powerpoint.pptx]
 
-###(Report)[https://github.com/medhanshsankaran/Stock-Portfolio-Optimization/blob/main/Portfolio_Optimization_Report.pdf]
+### (Report)[https://github.com/medhanshsankaran/Stock-Portfolio-Optimization/blob/main/Portfolio_Optimization_Report.pdf]
 
 ## Description
 
